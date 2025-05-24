@@ -1,0 +1,5 @@
+OU=AdminIT
+OU=Headquarter
+OU=HR
+OU=IT
+OU=Management
