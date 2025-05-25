@@ -1,4 +1,4 @@
-Zakres adresów: 10.0.0.100 - 10.0.0.200
-Maska podsieci: 255.255.255.0
-Brama domyślna: 10.0.0.1
+Address Range: 10.0.0.100 – 10.0.0.200
+Subnet Mask: 255.255.255.0
+Default Gateway: 10.0.0.1
 DNS: 10.0.0.1
