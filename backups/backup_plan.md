@@ -1,6 +1,6 @@
-# Plan Backupów
+# Backup Plan
 
-- Codzienne kopie zapasowe o godzinie 22:00
-- Backup: profile użytkowników, dane działów, konfiguracje serwerów
-- Lokalizacja backupu: \\IHW-BACKUP\kopie
-- Typ backupu: przyrostowy z pełnym co 7 dni
+- Daily backups at 10:00 PM
+- Backup includes: user profiles, department data, server configurations
+- Backup location: \IHW-BACKUP\copies
+- Backup type: incremental with a full backup every 7 days
